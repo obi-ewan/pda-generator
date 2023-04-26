@@ -2,4 +2,4 @@
 
 totally made by a human
 
-Just `npm start`
+Just `npm start` or https://obi-ewan.github.io/pda-generator/
